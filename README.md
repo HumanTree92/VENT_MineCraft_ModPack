@@ -1,17 +1,13 @@
 # VENT_MineCraftForge_ModPack
 This is a Mod Pack for Velociti Entertainments Private Server (MineCraft Forge)
 
----
-
-# How to install
-The installation is rather quite simple.
-
-1. First you want to make sure you installed the forge installer in the pack as client
-2. Then in order to add the mods go to AppData > Roaming > .minecraft > mods & place them there
-
-That's it. It's all installed
-
----
+# Download & Installation
+1) Download the .zip.
+2) Extract the .zip or Open the .zip.
+3) Make sure you have installed Forge. Its located in this Pack as well.
+4) Then go to your MineCraft Mods folder.
+ * appdata > roaming > .minecraft > mods 
+5) Place all the Mods into the Mods Folder
 
 # Visit Velociti Entertainment
 * [TS3](http://www.velocitientertainment.com/ts3/)
