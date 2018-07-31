@@ -5,8 +5,7 @@ This is a Mod Pack for Velociti Entertainments Private Server (MineCraft Forge)
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Make sure you have installed Forge. Its located in this Pack as well.
-4) Then go to your MineCraft Mods folder.
- * appdata > roaming > .minecraft > mods 
+4) Then go to your MineCraft Mods folder. appdata > roaming > .minecraft > mods 
 5) Place all the Mods into the Mods Folder
 
 # Visit Velociti Entertainment
