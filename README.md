@@ -27,7 +27,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Forge Server.
 ### License
 VENT_MineCraftForge_ModPack - Mod Pack for Velociti Entertainments MineCraft Forge Server.
 
-Copyright (C) 2011-2018 Velociti Entertainment
+Copyright (C) 2011-2019 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
