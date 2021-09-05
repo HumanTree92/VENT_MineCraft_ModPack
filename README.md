@@ -8,6 +8,9 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Forge Server.
 4) Then go to your MineCraft Mods folder. appdata > roaming > .minecraft > mods 
 5) Place all the Mods into the Mods Folder
 
+# How to use Mods:
+* [Telepads](https://github.com/ArtixAllMighty/Telepads2016/wiki)
+
 # Visit Velociti Entertainment:
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
