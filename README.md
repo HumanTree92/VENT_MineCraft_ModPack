@@ -11,12 +11,12 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 # How to Install Fabric Client:
 1) Double Click on fabric-installer-0.11.1.jar
 2) On Client Tab:
-  2.1) MineCraft Version: 1.19.2
-  2.2) Leave everything else at Default
-  2.3) Click Install
-  2.4) Once Install has Finished Launch MineCraft
-  2.5) Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
-  2.6) Click Play & now everything should be Installed.
+- 2.1) MineCraft Version: 1.19.2
+- 2.2) Leave everything else at Default
+- 2.3) Click Install
+- 2.4) Once Install has Finished Launch MineCraft
+- 2.5) Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
+- 2.6) Click Play & now everything should be Installed.
 
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
