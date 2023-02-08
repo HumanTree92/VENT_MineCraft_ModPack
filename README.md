@@ -21,6 +21,17 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
 
+# List of Current Mods:
+* [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
+* [Simple Teleporters]( https://www.curseforge.com/minecraft/mc-mods/simple-teleporters-fabric )
+* [OptiFabric]( https://www.curseforge.com/minecraft/mc-mods/optifabric )
+* [OptiFine]( https://optifine.net/downloads )
+* [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
+* [JourneyMap Tools]( https://www.curseforge.com/minecraft/mc-mods/journeymap-tools )
+* [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api )
+* [Architectury API]( https://www.curseforge.com/minecraft/mc-mods/architectury-api )
+* [MCPitanLibarch]( https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch )
+
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
 * [Website]( https://velocitientertainment.com )
