@@ -1,0 +1,47 @@
+## Uncrafting Table:
+8 Diamonds
+1 Crafting Table
+
+## Simple Teleporter:
+2 Ender Shards
+4 Quartz Blocks
+1 Gold Block
+
+- Place Ender Eyes in the Furnace to turn them into Ender Shards
+	- With this crystal you can sneak right click a block to create a link at a position you would like to teleport to.
+- Place this Teleporter on the ground and use the Ender Crystal you made earlier in it by right clicking with it in your hand. You can freely take the crystal out and put it back in.
+
+## Botany Pots
+Clay & Terracotta
+
+- Watch the Video below on an in depth video guide:
+	- https://www.youtube.com/watch?v=r1D1AnPSss0
+
+## Travelers Backpacks
+Netherite Backpack - +4 Armor
+Diamond Backpack - +3 Armor
+Gold Backpack - +2 Armor
+Emerald Backpack - Gives some cool particles, nothing special
+Iron Backpack - +2 Armor
+Lapis Backpack - Chance to multiply amount of experience which is received by player
+Redstone Backpack - Redstone block in a form of a backpack. Provides strong redstone signal
+Bookshelf Backpack - Holds mighty knowledge, place around enchanting table just like the bookshelf to get higher-level enchantments!
+Sponge Backpack - Works like sponge block and stores water in backpack tanks. It is required to have empty or not fully water filled tanks for ability to work
+Cake Backpack - Feeds you slowly with delicious pieces of cake
+Cactus Backpack - Acts like real-life cacti, If it's raining and above backpack is clear sky, the backpack will fill empty tanks with water over time. If you want some more water, dip yourself! The backpack can fill with water while being a block too
+Melon Backpack - Can drop up to 3 melon slices when harvested
+Pumpkin Backpack - Staring at the enderman no longer makes him angry
+Creeper Backpack - If player is going to die, creates explosion which damages every creature around, granting player absorption, regeneration and fire protection effects. Ability is available every few minutes
+Dragon Backpack - Backpack for real warriors, combines Magma's Cube and Squid's backpack abilties, plus gives you strenght and regeneration! You'll be invincible!... but.. what did it cost?
+Enderman Backpack - Extends range distance by 1 block
+Blaze Backpack - Immunity to fall damage and small fireballs sent by blaze
+Ghast Backpack - Ghasts see you as an allay, unless you attack them
+Magma Cube Backpack - Immunity to fire damage
+Spider Backpack - Have you ever tried climbing walls?
+Wither Backpack - Immunity to wither effect
+Bat Backpack - Provides seeing in the dark! Batman Batman Batman
+Bee Backpack - Attacking creatures stings them causing poisoning, which lasts 4 seconds
+Ocelot Backpack - If nearby hostile mob, grants speed effect
+Cow Backpack - Cleanses all negative effects
+Chicken Backpack - Have you ever wanted to be a chicken? No? Well, now you are! You'll lay eggs!
+Squid Backpack - Grants water breathing and night vision effects while being in water

@@ -22,15 +22,25 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
 
 # List of Current Mods:
+* [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots )
+* [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
+* [Grim's Transportables]( https://www.curseforge.com/minecraft/mc-mods/grims-transportables )
+* [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
+* [OptiFine]( https://optifine.net/downloads )
 * [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
 * [Simple Teleporters]( https://www.curseforge.com/minecraft/mc-mods/simple-teleporters-fabric )
-* [OptiFabric]( https://www.curseforge.com/minecraft/mc-mods/optifabric )
-* [OptiFine]( https://optifine.net/downloads )
-* [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
-* [JourneyMap Tools]( https://www.curseforge.com/minecraft/mc-mods/journeymap-tools )
+* [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric )
+* [You're in Grave Danger]( https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger )
+
+# List of Current Dependencies:
 * [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api )
 * [Architectury API]( https://www.curseforge.com/minecraft/mc-mods/architectury-api )
 * [MCPitanLibarch]( https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch )
+* [OptiFabric]( https://www.curseforge.com/minecraft/mc-mods/optifabric )
+* [JourneyMap Tools]( https://www.curseforge.com/minecraft/mc-mods/journeymap-tools )
+* [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config )
+* [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components )
+* [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
