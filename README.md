@@ -17,6 +17,8 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 - 2.4) Once Install has Finished Launch MineCraft
 - 2.5) Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
 - 2.6) Click Play & now everything should be Installed.
+3) Once in-game make sure all your controls are setup. Some Mods Conflict with each other on the Controls.
+4) Use Images and Crafting Guides to see how stuff is made.
 
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
