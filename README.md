@@ -4,45 +4,60 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 # Download & Installation:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
-3) Make sure you have installed Fabric. Follow Guide Bellow to Install Fabric.
-4) Then go to your MineCraft Mods folder. appdata > roaming > .minecraft > mods 
-5) Place all the Mods into the Mods Folder
+3) Use Images and Crafting Guides to see how stuff is made.
+4) Once in-game make sure all your controls are setup. Some Mods Conflict with each other on the Controls.
 
-# How to Install Fabric Client:
+# How to Install Fabric Client Manual:
 1) Double Click on fabric-installer-0.11.1.jar
 2) On Client Tab:
 - 2.1) MineCraft Version: 1.19.2
 - 2.2) Leave everything else at Default
 - 2.3) Click Install
-- 2.4) Once Install has Finished Launch MineCraft
-- 2.5) Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
-- 2.6) Click Play & now everything should be Installed.
-3) Once in-game make sure all your controls are setup. Some Mods Conflict with each other on the Controls.
-4) Use Images and Crafting Guides to see how stuff is made.
+- 2.4) Once Install has Finished Exit the Installer
+3) Then go to your MineCraft Mods folder. appdata > roaming > .minecraft > mods
+4) Place all the Mods into the Mods Folder
+5) Launch MineCraft & Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
+6) Click Play & now everything should be Installed.
+
+# How to Install CurseForge App:
+1) Go to [CurseForge App Download Page]( https://download.curseforge.com )
+2) Click Download and Install the CurseForge App
+3) Once in Under Choose Game Tab click MineCraft
+4) To Add the ModPack Click on Create Custom Profile
+5) Under the Title Create Profile click on Import & Select the .zip in the CurseForge Folder [If having problems Click me for Help]( https://support.curseforge.com/en/support/solutions/articles/9000198501-exporting-and-importing-modpacks )
+6) It will Automatically Download All of the Files except OptiFine
+7) Now you will Click on the ModPack & Once it Opens Click on the 3 Dots next to Play & Select Open Folder
+8) Select the mods Folder & Drag the OptiFine.jar File into the mods Folder & then Close the Folder.
+9) Once Finished you can Click on Play & it will Install everything.
+10) You can now Start using the CurseForge App to Launch & Play MineCraft. Doing things this way makes it easier to install Mods.
 
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
 
 # List of Current Mods:
 * [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots )
+* [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals )
 * [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
 * [Grim's Transportables]( https://www.curseforge.com/minecraft/mc-mods/grims-transportables )
+* [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments )
 * [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
 * [OptiFine]( https://optifine.net/downloads )
 * [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
-* [Simple Teleporters]( https://www.curseforge.com/minecraft/mc-mods/simple-teleporters-fabric )
+* [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels )
 * [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric )
+* [Traveler's Titles]( https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric )
+* [WorldEdit]( https://www.curseforge.com/minecraft/mc-mods/worldedit )
 * [You're in Grave Danger]( https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger )
 
 # List of Current Dependencies:
-* [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api )
 * [Architectury API]( https://www.curseforge.com/minecraft/mc-mods/architectury-api )
+* [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf )
+* [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components )
+* [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config )
+* [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api )
 * [MCPitanLibarch]( https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch )
 * [OptiFabric]( https://www.curseforge.com/minecraft/mc-mods/optifabric )
-* [JourneyMap Tools]( https://www.curseforge.com/minecraft/mc-mods/journeymap-tools )
-* [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config )
-* [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components )
-* [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf )
+* [YUNG's API]( https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
