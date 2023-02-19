@@ -45,6 +45,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 * [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair )
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
 * [Dynamic Surroundings]( https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-remastered-fabric-edition )
+* [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners )
 * [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
 * [Grim's Transportables]( https://www.curseforge.com/minecraft/mc-mods/grims-transportables )
 * [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments )
