@@ -60,6 +60,8 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 * [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture )
 * [Presence Footsteps]( https://www.curseforge.com/minecraft/mc-mods/presence-footsteps )
 * [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
+* [Smooth Boot]( https://www.curseforge.com/minecraft/mc-mods/smooth-boot )
+* [Stacker]( https://www.curseforge.com/minecraft/mc-mods/stacker )
 * [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels )
 * [ToolTipFix]( https://www.curseforge.com/minecraft/mc-mods/tooltipfix )
 * [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric )
