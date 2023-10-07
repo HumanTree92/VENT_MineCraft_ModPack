@@ -8,7 +8,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 4) Once in-game make sure all your controls are setup. Some Mods Conflict with each other on the Controls.
 
 # How to Install Fabric Client Manual:
-1) Double Click on fabric-installer-0.11.1.jar
+1) Double Click on fabric-installer-0.11.2.jar
 2) On Client Tab:
 - 2.1) MineCraft Version: 1.19.2
 - 2.2) Leave everything else at Default
@@ -18,6 +18,11 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 4) Place all the Mods into the Mods Folder
 5) Launch MineCraft & Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
 6) Click Play & now everything should be Installed.
+
+# How to Install OptiFine:
+1) Right Click on OptiFine_1.19.2_HD_U_I2.jar
+2) Select Open With & Select Java(TM)
+3) Select Install
 
 # How to Install CurseForge App:
 1) Go to [CurseForge App Download Page]( https://download.curseforge.com )
@@ -45,6 +50,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 * [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair )
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
 * [Dynamic Surroundings]( https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-remastered-fabric-edition )
+* [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi )
 * [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners )
 * [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
 * [Grim's Transportables]( https://www.curseforge.com/minecraft/mc-mods/grims-transportables )
