@@ -1,5 +1,5 @@
 # About VENT_MineCraft_ModPack:
-This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
+This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 44 Mods & 16 Mod Dependencies for a total of 60 Mods.
 
 # Download & Installation:
 1) Download the .zip.
@@ -19,11 +19,6 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 5) Launch MineCraft & Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
 6) Click Play & now everything should be Installed.
 
-# How to Install OptiFine:
-1) Right Click on OptiFine_1.19.2_HD_U_I2.jar
-2) Select Open With & Select Java(TM)
-3) Select Install
-
 # How to Install CurseForge App:
 1) Go to [CurseForge App Download Page]( https://download.curseforge.com )
 2) Click Download and Install the CurseForge App
@@ -39,13 +34,17 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
 
-# List of Current Mods:
+# List of Current Fabric Mods:
+* [Iris]( https://irisshaders.dev )
+* [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra )
 * [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough )
 * [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture )
 * [Auditory]( https://www.curseforge.com/minecraft/mc-mods/auditory )
 * [Auto Third Person]( https://www.curseforge.com/minecraft/mc-mods/auto-third-person )
 * [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots )
+* [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity )
 * [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals )
+* [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen )
 * [Dehydration]( https://www.curseforge.com/minecraft/mc-mods/dehydration )
 * [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair )
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
@@ -59,32 +58,44 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server.
 * [Iam Music Player]( https://www.curseforge.com/minecraft/mc-mods/iammusicplayer )
 * [Immersive Paintings]( https://www.curseforge.com/minecraft/mc-mods/immersive-paintings )
 * [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
+* [LambDynamicLights]( https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights )
+* [LightLevel]( https://www.curseforge.com/minecraft/mc-mods/lightlevel )
+* [Mod Menu] ( https://modrinth.com/mod/modmenu )
 * [Mouse Tweaks]( https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks )
 * [Nyf's Spiders]( https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders )
 * [Recipe Book is Pain]( https://www.curseforge.com/minecraft/mc-mods/recipe-book-is-pain )
-* [OptiFine]( https://optifine.net/downloads )
+* [Smooth Chunk Save]( https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save )
 * [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture )
 * [Presence Footsteps]( https://www.curseforge.com/minecraft/mc-mods/presence-footsteps )
 * [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
 * [Smooth Boot]( https://www.curseforge.com/minecraft/mc-mods/smooth-boot )
+* [Spark]( https://www.curseforge.com/minecraft/mc-mods/spark )
 * [Stacker]( https://www.curseforge.com/minecraft/mc-mods/stacker )
+* [Starter Kit]( https://www.curseforge.com/minecraft/mc-mods/starter-kit )
 * [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels )
 * [ToolTipFix]( https://www.curseforge.com/minecraft/mc-mods/tooltipfix )
 * [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric )
 * [Traveler's Titles]( https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric )
+* [WI Zoom]( https://www.curseforge.com/minecraft/mc-mods/wi-zoom )
 * [WorldEdit]( https://www.curseforge.com/minecraft/mc-mods/worldedit )
 * [You're in Grave Danger]( https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger )
 
-# List of Current Dependencies:
+# List of Current Fabric Dependencies:
 * [Architectury API]( https://www.curseforge.com/minecraft/mc-mods/architectury-api )
 * [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf )
+* [Botarium]( https://www.curseforge.com/minecraft/mc-mods/botarium )
 * [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components )
 * [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config )
+* [Collective]( https://www.curseforge.com/minecraft/mc-mods/collective )
+* [Cupboard]( https://www.curseforge.com/minecraft/mc-mods/cupboard )
 * [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api )
+* [Indium]( https://www.curseforge.com/minecraft/mc-mods/indium )
 * [MCPitanLibarch]( https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch )
-* [OptiFabric]( https://www.curseforge.com/minecraft/mc-mods/optifabric )
 * [Otyacraft Engine]( https://www.curseforge.com/minecraft/mc-mods/otyacraft-engine )
 * [Patchouli]( https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric )
+* [Resourceful Config]( https://www.curseforge.com/minecraft/mc-mods/resourceful-config )
+* [Resourceful Lib]( https://www.curseforge.com/minecraft/mc-mods/resourceful-lib )
+* [Sodium]( https://www.curseforge.com/minecraft/mc-mods/sodium )
 * [YUNG's API]( https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric )
 
 # Visit Velociti Entertainment:
