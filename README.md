@@ -19,29 +19,19 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 5) Launch MineCraft & Near the Bottom Left of the Play Button it should say fabric-loader-1.19.2
 6) Click Play & now everything should be Installed.
 
-# How to Install CurseForge App:
-1) Go to [CurseForge App Download Page]( https://download.curseforge.com )
-2) Click Download and Install the CurseForge App
-3) Once in Under Choose Game Tab click MineCraft
-4) To Add the ModPack Click on Create Custom Profile
-5) Under the Title Create Profile click on Import & Select the .zip in the CurseForge Folder [If having problems Click me for Help]( https://support.curseforge.com/en/support/solutions/articles/9000198501-exporting-and-importing-modpacks )
-6) It will Automatically Download All of the Files except OptiFine
-7) Now you will Click on the ModPack & Once it Opens Click on the 3 Dots next to Play & Select Open Folder
-8) Select the mods Folder & Drag the OptiFine.jar File into the mods Folder & then Close the Folder.
-9) Once Finished you can Click on Play & it will Install everything.
-10) You can now Start using the CurseForge App to Launch & Play MineCraft. Doing things this way makes it easier to install Mods.
-
 # List of All Fabric Mods:
 * [Fabric Mods]( https://gist.github.com/John-Paul-R/6819feb2f2f794df06ae678878cddaf3 )
 
 # List of Current Fabric Mods:
-* [Iris]( https://irisshaders.dev )
-* [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra )
+* [Iris]( https://irisshaders.dev ) - Alternative to Optifine
+* [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra ) - Space Mod
 * [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough )
 * [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture )
 * [Auditory]( https://www.curseforge.com/minecraft/mc-mods/auditory )
 * [Auto Third Person]( https://www.curseforge.com/minecraft/mc-mods/auto-third-person )
 * [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots )
+* [Carry On]( https://www.curseforge.com/minecraft/mc-mods/carry-on )
+* [Clumps]( https://www.curseforge.com/minecraft/mc-mods/clumps )
 * [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity )
 * [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals )
 * [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen )
@@ -50,6 +40,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
 * [Dynamic Surroundings]( https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-remastered-fabric-edition )
 * [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi )
+* [Enchantment Descriptions]( https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions )
 * [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners )
 * [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
 * [Grim's Transportables]( https://www.curseforge.com/minecraft/mc-mods/grims-transportables )
