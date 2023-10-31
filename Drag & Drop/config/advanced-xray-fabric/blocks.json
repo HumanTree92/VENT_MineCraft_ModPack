@@ -1,0 +1,337 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"minecraft:gold_ore\"}",
+        "name": "Gold Ore",
+        "color": "#ffc800",
+        "order": 0,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:iron_ore\"}",
+        "name": "Iron Ore",
+        "color": "#7d643c",
+        "order": 1,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:diamond_ore\"}",
+        "name": "Diamond Ore",
+        "color": "#00ffff",
+        "order": 2,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Redstone Ore",
+        "color": "#ff0000",
+        "order": 3,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:lapis_ore\"}",
+        "name": "Lapis Lazuli Ore",
+        "color": "#0000ff",
+        "order": 4,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:coal_ore\"}",
+        "name": "Coal Ore",
+        "color": "#000000",
+        "order": 5,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:emerald_ore\"}",
+        "name": "Emerald Ore",
+        "color": "#009600",
+        "order": 6,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:copper_ore\"}",
+        "name": "Copper Ore",
+        "color": "#c8aa96",
+        "order": 7,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_gold_ore\"}",
+        "name": "Deepslate Gold Ore",
+        "color": "#ffc800",
+        "order": 8,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_iron_ore\"}",
+        "name": "Deepslate Iron Ore",
+        "color": "#7d643c",
+        "order": 9,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_diamond_ore\"}",
+        "name": "Deepslate Diamond Ore",
+        "color": "#00ffff",
+        "order": 10,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Deepslate Redstone Ore",
+        "color": "#ff0000",
+        "order": 11,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_lapis_ore\"}",
+        "name": "Deepslate Lapis Lazuli Ore",
+        "color": "#0000ff",
+        "order": 12,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_coal_ore\"}",
+        "name": "Deepslate Coal Ore",
+        "color": "#000000",
+        "order": 13,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_emerald_ore\"}",
+        "name": "Deepslate Emerald Ore",
+        "color": "#009600",
+        "order": 14,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_copper_ore\"}",
+        "name": "Deepslate Copper Ore",
+        "color": "#c8aa96",
+        "order": 15,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:nether_gold_ore\"}",
+        "name": "Nether Gold Ore",
+        "color": "#7a402e",
+        "order": 16,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:ancient_debris\"}",
+        "name": "Ancient Debris",
+        "color": "#717e48",
+        "order": 17,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"ad_astra:moon_desh_ore\"}",
+        "name": "Moon Desh Ore",
+        "color": "#4b0000",
+        "order": 19,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:deepslate_desh_ore\"}",
+        "name": "Moon Deepslate Desh Ore",
+        "color": "#4b0000",
+        "order": 20,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:moon_iron_ore\"}",
+        "name": "Moon Iron Ore",
+        "color": "#7d643c",
+        "order": 21,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"ad_astra:moon_ice_shard_ore\"}",
+        "name": "Moon Ice Shard Ore",
+        "color": "#ffffff",
+        "order": 22,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:deepslate_ice_shard_ore\"}",
+        "name": "Moon Deepslate Ice Shard Ore",
+        "color": "#ffffff",
+        "order": 23,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:mars_iron_ore\"}",
+        "name": "Mars Iron Ore",
+        "color": "#7d643c",
+        "order": 24,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"ad_astra:mars_diamond_ore\"}",
+        "name": "Mars Diamond Ore",
+        "color": "#00ffff",
+        "order": 25,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:mars_ostrum_ore\"}",
+        "name": "Mars Ostrum Ore",
+        "color": "#000000",
+        "order": 26,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:deepslate_ostrum_ore\"}",
+        "name": "Mars Deepslate Ostrum Ore",
+        "color": "#000000",
+        "order": 27,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:mars_ice_shard_ore\"}",
+        "name": "Mars Ice Shard Ore",
+        "color": "#ffffff",
+        "order": 28,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:venus_coal_ore\"}",
+        "name": "Venus Coal Ore",
+        "color": "#000000",
+        "order": 29,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:venus_gold_ore\"}",
+        "name": "Venus Gold Ore",
+        "color": "#ffc800",
+        "order": 30,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:venus_diamond_ore\"}",
+        "name": "Venus Diamond Ore",
+        "color": "#00ffff",
+        "order": 31,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:venus_calorite_ore\"}",
+        "name": "Venus Calorite Ore",
+        "color": "#b40000",
+        "order": 32,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:deepslate_calorite_ore\"}",
+        "name": "Venus Deepslate Calorite Ore",
+        "color": "#b40000",
+        "order": 33,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:mercury_iron_ore\"}",
+        "name": "Mercury Iron Ore",
+        "color": "#7d643c",
+        "order": 34,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:glacio_ice_shard_ore\"}",
+        "name": "Glacio Ice Shard Ore",
+        "color": "#ffffff",
+        "order": 35,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:glacio_coal_ore\"}",
+        "name": "Glacio Coal Ore",
+        "color": "#000000",
+        "order": 36,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:glacio_copper_ore\"}",
+        "name": "Glacio Copper Ore",
+        "color": "#c8aa96",
+        "order": 37,
+        "isDefault": false,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:glacio_iron_ore\"}",
+        "name": "Glacio Iron Ore",
+        "color": "#7d643c",
+        "order": 38,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:glacio_lapis_ore\"}",
+        "name": "Glacio Lapis Ore",
+        "color": "#0000ff",
+        "order": 39,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:permafrost\"}",
+        "name": "Permafrost",
+        "color": "#ff00ff",
+        "order": 40,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"ad_astra:moon_cheese_ore\"}",
+        "name": "Moon Cheese Ore",
+        "color": "#ffc8ff",
+        "order": 41,
+        "isDefault": false,
+        "active": false
+      }
+    ],
+    "order": 0,
+    "active": true
+  }
+]
