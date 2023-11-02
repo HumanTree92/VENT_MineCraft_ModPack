@@ -30,49 +30,52 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 # List of Current Fabric Mods:
 * [Iris]( https://irisshaders.dev ) - Alternative to Optifine
 * [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra ) - Space Mod
-* [Advanced XRay]( https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition )
-* [AllStackable]( https://www.curseforge.com/minecraft/mc-mods/all-stackable )
-* [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough )
-* [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture )
-* [Auto Third Person]( https://www.curseforge.com/minecraft/mc-mods/auto-third-person )
+* [Advanced XRay]( https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition ) - Adds XRay
+* [AllStackable]( https://www.curseforge.com/minecraft/mc-mods/all-stackable ) - Ability to set Custom Stack Sizes
+* [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough ) - Animal Feeding Trough
+* [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture ) - Adds Furniture
+* [Auto Third Person]( https://www.curseforge.com/minecraft/mc-mods/auto-third-person ) - Auto Third Person
 * [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots ) - Botany Pots
-* [Carry On]( https://www.curseforge.com/minecraft/mc-mods/carry-on )
-* [Clumps]( https://www.curseforge.com/minecraft/mc-mods/clumps )
-* [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity )
-* [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals )
-* [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen )
-* [Dehydration]( https://www.curseforge.com/minecraft/mc-mods/dehydration )
-* [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair )
+* [Carry On]( https://www.curseforge.com/minecraft/mc-mods/carry-on ) - Ability to Carry Blocks if both Hands are Empty
+* [Clumps]( https://www.curseforge.com/minecraft/mc-mods/clumps ) - Makes all XP group together
+* [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity ) - Removes the Lines from Blocks & Glass
+* [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals ) - Ability to create Custom Portals
+* [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen ) - Dark Loading Screen
+* [Dehydration]( https://www.curseforge.com/minecraft/mc-mods/dehydration ) - Water Drinking just like Food
+* [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair ) - Changing Crosshair
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
-* [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi )
-* [Enchantment Descriptions]( https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions )
-* [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners )
-* [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture )
-* [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments )
-* [Horse Stats Vanilla]( https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla )
-* [Iam Music Player]( https://www.curseforge.com/minecraft/mc-mods/iammusicplayer )
-* [Immersive Paintings]( https://www.curseforge.com/minecraft/mc-mods/immersive-paintings )
-* [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap )
-* [LambDynamicLights]( https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights )
-* [Lightest Lamps]( https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric )
-* [Mod Menu]( https://modrinth.com/mod/modmenu )
-* [Mouse Tweaks]( https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks )
-* [Nyf's Spiders]( https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders )
-* [Recipe Book is Pain]( https://www.curseforge.com/minecraft/mc-mods/recipe-book-is-pain )
-* [Smooth Chunk Save]( https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save )
-* [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture )
-* [Presence Footsteps]( https://www.curseforge.com/minecraft/mc-mods/presence-footsteps )
-* [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric )
-* [Sound Physics Remastered]( https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered )
-* [Spark]( https://www.curseforge.com/minecraft/mc-mods/spark )
-* [Starter Kit]( https://www.curseforge.com/minecraft/mc-mods/starter-kit )
-* [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels )
-* [ToolTipFix]( https://www.curseforge.com/minecraft/mc-mods/tooltipfix )
-* [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric )
-* [Traveler's Titles]( https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric )
-* [Universale Graves]( https://www.curseforge.com/minecraft/mc-mods/universal-graves )
-* [WI Zoom]( https://www.curseforge.com/minecraft/mc-mods/wi-zoom )
-* [WorldEdit]( https://www.curseforge.com/minecraft/mc-mods/worldedit )
+* [Elytra Slot]( https://www.curseforge.com/minecraft/mc-mods/elytra-slot ) - Adds Elytra Slot so you can where Elytra & Armor
+* [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi ) - Shows all Blocks on Right Side & Ability to Recipes easier
+* [Enchantment Descriptions]( https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions ) - Adds Descriptions on Enchantments
+* [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners ) - Ability to destroy Mob Spawners with Silk Touch
+* [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture ) - Adds Furniture
+* [FerriteCore]( https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric ) - Performance Mod for Memory Usage
+* [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments ) - Ability to remove Enchantments from items
+* [Horse Stats Vanilla]( https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla ) - Shows Horse Stats
+* [Iam Music Player]( https://www.curseforge.com/minecraft/mc-mods/iammusicplayer ) - Adds Music Player
+* [Immersive Paintings]( https://www.curseforge.com/minecraft/mc-mods/immersive-paintings ) - Multiple Paintings
+* [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap ) - Adds Map to see where you have been
+* [LambDynamicLights]( https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights ) - Makes carried torches light up around Player
+* [Lightest Lamps]( https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric ) - Adds light blocks from 16-32 + More
+* [Mod Menu]( https://modrinth.com/mod/modmenu ) - Mod Menu to Config Mods in-game
+* [ModernFix]( https://www.curseforge.com/minecraft/mc-mods/modernfix ) - Performance Mod All-In-One
+* [Mouse Tweaks]( https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks ) - Adds Various Mouse Options
+* [Nyf's Spiders]( https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders ) - Allows Spiders to crawl anywhere
+* [Recipe Book is Pain]( https://www.curseforge.com/minecraft/mc-mods/recipe-book-is-pain ) - Makes the Recipe Book Copy Creative Tabs
+* [Smooth Chunk Save]( https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save ) - Performance Mod that Makes saving Chunks better
+* [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture ) - Adds Furniture
+* [Presence Footsteps]( https://www.curseforge.com/minecraft/mc-mods/presence-footsteps ) - Adds Footstep sounds
+* [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric ) - Ability to uncraft items
+* [Sound Physics Remastered]( https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered ) - Ability to customize sounds
+* [Spark]( https://www.curseforge.com/minecraft/mc-mods/spark ) - Performance Profiler for Debugging problems
+* [Starter Kit]( https://www.curseforge.com/minecraft/mc-mods/starter-kit ) - Adds starter kit for new players
+* [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels ) - Pay the same amount of XP no matter what level you are
+* [ToolTipFix]( https://www.curseforge.com/minecraft/mc-mods/tooltipfix ) - Makes Descriptions fit on Screen
+* [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric ) - Adds a Backpack
+* [Traveler's Titles]( https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric ) - Shows Titles for Biomes that you enter
+* [Universale Graves]( https://www.curseforge.com/minecraft/mc-mods/universal-graves ) - Puts all items & XP into a Grave when you die
+* [WI Zoom]( https://www.curseforge.com/minecraft/mc-mods/wi-zoom ) - Adds Zoom
+* [WorldEdit]( https://www.curseforge.com/minecraft/mc-mods/worldedit ) - Adds stuff for Admins
 
 # List of Current Fabric Dependencies:
 * [Architectury API]( https://www.curseforge.com/minecraft/mc-mods/architectury-api ) - (Animal Feeding Trough, Iam Music Player)
@@ -92,6 +95,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Resourceful Config]( https://www.curseforge.com/minecraft/mc-mods/resourceful-config ) - (Ad Astra)
 * [Resourceful Lib]( https://www.curseforge.com/minecraft/mc-mods/resourceful-lib ) - (Ad Astra)
 * [Sodium]( https://www.curseforge.com/minecraft/mc-mods/sodium ) - (Indium)
+* [Trinkets]( https://www.curseforge.com/minecraft/mc-mods/trinkets ) - (Elytra Slot)
 * [YUNG's API]( https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric ) - (Traveler's Titles)
 
 # Visit Velociti Entertainment:
