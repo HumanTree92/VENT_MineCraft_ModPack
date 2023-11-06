@@ -1,5 +1,5 @@
 # About VENT_MineCraft_ModPack:
-This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 45 Mods & 18 Mod Dependencies for a total of 63 Mods.
+This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 50 Mods & 22 Mod Dependencies for a total of 72 Mods.
 
 # Download & Installation:
 1) Download the .zip.
@@ -41,13 +41,15 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity ) - Removes the Lines from Blocks & Glass
 * [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals ) - Ability to create Custom Portals
 * [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen ) - Dark Loading Screen
-* [Dehydration]( https://www.curseforge.com/minecraft/mc-mods/dehydration ) - Water Drinking just like Food
 * [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair ) - Changing Crosshair
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
+* [Easy Elytra Takeoff]( https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff ) - Makes taking off in Elytra's easier
 * [Elytra Slot]( https://www.curseforge.com/minecraft/mc-mods/elytra-slot ) - Adds Elytra Slot so you can where Elytra & Armor
+* [Elytra Trims]( https://www.curseforge.com/minecraft/mc-mods/elytra-trims ) - Adds Trims to Elytra's just like Armor
 * [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi ) - Shows all Blocks on Right Side & Ability to Recipes easier
 * [Enchantment Descriptions]( https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions ) - Adds Descriptions on Enchantments
 * [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners ) - Ability to destroy Mob Spawners with Silk Touch
+* [Eureka! Ships!]( https://www.curseforge.com/minecraft/mc-mods/eureka-ships ) - Ability to create Ships TEMP REMOVED
 * [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture ) - Adds Furniture
 * [FerriteCore]( https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric ) - Performance Mod for Memory Usage
 * [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments ) - Ability to remove Enchantments from items
@@ -82,8 +84,10 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf ) - (Botany Pots, Enchantment Descriptions)
 * [Botarium]( https://www.curseforge.com/minecraft/mc-mods/botarium ) - (Ad Astra)
 * [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components ) - (Traveler's Backpack)
+* [Cloth API]( https://www.curseforge.com/minecraft/mc-mods/cloth-api ) - (Traveler's Backpack) TEMP REMOVED
 * [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config ) - (All Main Mods)
-* [Collective]( https://www.curseforge.com/minecraft/mc-mods/collective ) - (Starter Kit)
+* [Collective]( https://www.curseforge.com/minecraft/mc-mods/collective ) - (Easy Elytra Takeoff, Starter Kit)
+* [Command Config Lib]( https://modrinth.com/mod/command-config ) - (Elytra Trims)
 * [CompleteConfig]( https://www.curseforge.com/minecraft/mc-mods/completeconfig ) - (Custom Portals)
 * [Cupboard]( https://www.curseforge.com/minecraft/mc-mods/cupboard ) - (Smooth Chunk Save)
 * [Fabric API]( https://www.curseforge.com/minecraft/mc-mods/fabric-api ) - (All Main Mods)
@@ -96,6 +100,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Resourceful Lib]( https://www.curseforge.com/minecraft/mc-mods/resourceful-lib ) - (Ad Astra)
 * [Sodium]( https://www.curseforge.com/minecraft/mc-mods/sodium ) - (Indium)
 * [Trinkets]( https://www.curseforge.com/minecraft/mc-mods/trinkets ) - (Elytra Slot)
+* [Valkyrien Skies]( https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies ) - (Eureka! Ships!) TEMP REMOVED
 * [YUNG's API]( https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric ) - (Traveler's Titles)
 
 # Visit Velociti Entertainment:
