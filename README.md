@@ -1,5 +1,5 @@
 # About VENT_MineCraft_ModPack:
-This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 50 Mods & 22 Mod Dependencies for a total of 72 Mods.
+This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 51 Mods & 21 Mod Dependencies for a total of 72 Mods.
 
 # Download & Installation:
 1) Download the .zip.
@@ -29,54 +29,55 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 
 # List of Current Fabric Mods:
 * [Iris]( https://irisshaders.dev ) - Alternative to Optifine
-* [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra ) - Space Mod
+* [Ad Astra]( https://www.curseforge.com/minecraft/mc-mods/ad-astra ) - Space Mod **ITEMS**
 * [Advanced XRay]( https://www.curseforge.com/minecraft/mc-mods/advanced-xray-fabric-edition ) - Adds XRay
 * [AllStackable]( https://www.curseforge.com/minecraft/mc-mods/all-stackable ) - Ability to set Custom Stack Sizes
-* [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough ) - Animal Feeding Trough
-* [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture ) - Adds Furniture
+* [Animal Feeding Trough]( https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough ) - Animal Feeding Trough **ITEMS**
+* [Another Furniture]( https://www.curseforge.com/minecraft/mc-mods/another-furniture ) - Adds Furniture **ITEMS**
 * [Auto Third Person]( https://www.curseforge.com/minecraft/mc-mods/auto-third-person ) - Auto Third Person
-* [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots ) - Botany Pots
+* [Botany Pots]( https://www.curseforge.com/minecraft/mc-mods/botany-pots ) - Botany Pots **ITEMS**
 * [Carry On]( https://www.curseforge.com/minecraft/mc-mods/carry-on ) - Ability to Carry Blocks if both Hands are Empty
 * [Clumps]( https://www.curseforge.com/minecraft/mc-mods/clumps ) - Makes all XP group together
 * [Continuity]( https://www.curseforge.com/minecraft/mc-mods/continuity ) - Removes the Lines from Blocks & Glass
-* [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals ) - Ability to create Custom Portals
+* [Custom Portals]( https://www.curseforge.com/minecraft/mc-mods/custom-portals ) - Ability to create Custom Portals **ITEMS**
 * [Dark Loading Screen]( https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen ) - Dark Loading Screen
 * [Dynamic Crosshair]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair ) - Changing Crosshair
 * [Dynamic Crosshair Compat]( https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair-compat )
-* [Easy Elytra Takeoff]( https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff ) - Makes taking off in Elytra's easier
+* [Easy Elytra Takeoff]( https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff ) - Makes taking off in Elytra's easier **NEW**
 * [Elytra Slot]( https://www.curseforge.com/minecraft/mc-mods/elytra-slot ) - Adds Elytra Slot so you can where Elytra & Armor
-* [Elytra Trims]( https://www.curseforge.com/minecraft/mc-mods/elytra-trims ) - Adds Trims to Elytra's just like Armor
+* [Elytra Trims]( https://www.curseforge.com/minecraft/mc-mods/elytra-trims ) - Adds Trims to Elytra's just like Armor **NEW ITEMS**
 * [EMI]( https://www.curseforge.com/minecraft/mc-mods/emi ) - Shows all Blocks on Right Side & Ability to Recipes easier
 * [Enchantment Descriptions]( https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions ) - Adds Descriptions on Enchantments
-* [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners ) - Ability to destroy Mob Spawners with Silk Touch
-* [Eureka! Ships!]( https://www.curseforge.com/minecraft/mc-mods/eureka-ships ) - Ability to create Ships TEMP REMOVED
-* [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture ) - Adds Furniture
+* [Enhanced Mob Spawners]( https://www.curseforge.com/minecraft/mc-mods/enhanced-mob-spawners ) - Ability to destroy Mob Spawners with Silk Touch **ITEMS**
+* [Exline's Furniture Mod]( https://www.curseforge.com/minecraft/mc-mods/exlines-furniture ) - Adds Furniture **ITEMS**
 * [FerriteCore]( https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric ) - Performance Mod for Memory Usage
 * [Grind Enchantments]( https://www.curseforge.com/minecraft/mc-mods/grind-enchantments ) - Ability to remove Enchantments from items
 * [Horse Stats Vanilla]( https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla ) - Shows Horse Stats
-* [Iam Music Player]( https://www.curseforge.com/minecraft/mc-mods/iammusicplayer ) - Adds Music Player
-* [Immersive Paintings]( https://www.curseforge.com/minecraft/mc-mods/immersive-paintings ) - Multiple Paintings
+* [Iam Music Player]( https://www.curseforge.com/minecraft/mc-mods/iammusicplayer ) - Adds Music Player **ITEMS**
+* [Immersive Paintings]( https://www.curseforge.com/minecraft/mc-mods/immersive-paintings ) - Multiple Paintings **ITEMS**
 * [JourneyMap]( https://www.curseforge.com/minecraft/mc-mods/journeymap ) - Adds Map to see where you have been
 * [LambDynamicLights]( https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights ) - Makes carried torches light up around Player
-* [Lightest Lamps]( https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric ) - Adds light blocks from 16-32 + More
+* [Lightest Lamps]( https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric ) - Adds light blocks from 16-32 + More **ITEMS**
 * [Mod Menu]( https://modrinth.com/mod/modmenu ) - Mod Menu to Config Mods in-game
 * [ModernFix]( https://www.curseforge.com/minecraft/mc-mods/modernfix ) - Performance Mod All-In-One
 * [Mouse Tweaks]( https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks ) - Adds Various Mouse Options
 * [Nyf's Spiders]( https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders ) - Allows Spiders to crawl anywhere
+* [Planting Dirt for Saplings]( https://www.curseforge.com/minecraft/mc-mods/planting-dirt-for-saplings ) - Allows for true Auto Farming **NEW**
 * [Recipe Book is Pain]( https://www.curseforge.com/minecraft/mc-mods/recipe-book-is-pain ) - Makes the Recipe Book Copy Creative Tabs
 * [Smooth Chunk Save]( https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save ) - Performance Mod that Makes saving Chunks better
-* [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture ) - Adds Furniture
+* [Paladin's Furniture]( https://www.curseforge.com/minecraft/mc-mods/paladins-furniture ) - Adds Furniture **ITEMS**
 * [Presence Footsteps]( https://www.curseforge.com/minecraft/mc-mods/presence-footsteps ) - Adds Footstep sounds
-* [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric ) - Ability to uncraft items
+* [Simple Uncrafting Table]( https://www.curseforge.com/minecraft/mc-mods/simple-uncrafting-table-fabric ) - Ability to uncraft items **ITEMS**
 * [Sound Physics Remastered]( https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered ) - Ability to customize sounds
 * [Spark]( https://www.curseforge.com/minecraft/mc-mods/spark ) - Performance Profiler for Debugging problems
 * [Starter Kit]( https://www.curseforge.com/minecraft/mc-mods/starter-kit ) - Adds starter kit for new players
 * [Tax Free Levels]( https://www.curseforge.com/minecraft/mc-mods/tax-free-levels ) - Pay the same amount of XP no matter what level you are
 * [ToolTipFix]( https://www.curseforge.com/minecraft/mc-mods/tooltipfix ) - Makes Descriptions fit on Screen
-* [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric ) - Adds a Backpack
+* [Traveler's Backpack]( https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric ) - Adds a Backpack **ITEMS**
 * [Traveler's Titles]( https://www.curseforge.com/minecraft/mc-mods/travelers-titles-fabric ) - Shows Titles for Biomes that you enter
 * [Universale Graves]( https://www.curseforge.com/minecraft/mc-mods/universal-graves ) - Puts all items & XP into a Grave when you die
 * [WI Zoom]( https://www.curseforge.com/minecraft/mc-mods/wi-zoom ) - Adds Zoom
+* [Wireless Redstone RE]( https://www.curseforge.com/minecraft/mc-mods/wirelessredstone ) - Adds Wireless Redstone **NEW ITEMS**
 * [WorldEdit]( https://www.curseforge.com/minecraft/mc-mods/worldedit ) - Adds stuff for Admins
 
 # List of Current Fabric Dependencies:
@@ -100,7 +101,6 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Resourceful Lib]( https://www.curseforge.com/minecraft/mc-mods/resourceful-lib ) - (Ad Astra)
 * [Sodium]( https://www.curseforge.com/minecraft/mc-mods/sodium ) - (Indium)
 * [Trinkets]( https://www.curseforge.com/minecraft/mc-mods/trinkets ) - (Elytra Slot)
-* [Valkyrien Skies]( https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies ) - (Eureka! Ships!) TEMP REMOVED
 * [YUNG's API]( https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric ) - (Traveler's Titles)
 
 # Visit Velociti Entertainment:
