@@ -85,7 +85,6 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 * [Bookshelf]( https://www.curseforge.com/minecraft/mc-mods/bookshelf ) - (Botany Pots, Enchantment Descriptions)
 * [Botarium]( https://www.curseforge.com/minecraft/mc-mods/botarium ) - (Ad Astra)
 * [Cardinal Components]( https://www.curseforge.com/minecraft/mc-mods/cardinal-components ) - (Traveler's Backpack)
-* [Cloth API]( https://www.curseforge.com/minecraft/mc-mods/cloth-api ) - (Traveler's Backpack) TEMP REMOVED
 * [Cloth Config API]( https://www.curseforge.com/minecraft/mc-mods/cloth-config ) - (All Main Mods)
 * [Collective]( https://www.curseforge.com/minecraft/mc-mods/collective ) - (Easy Elytra Takeoff, Starter Kit)
 * [Command Config Lib]( https://modrinth.com/mod/command-config ) - (Elytra Trims)
