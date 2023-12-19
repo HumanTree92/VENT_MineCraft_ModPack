@@ -1,5 +1,5 @@
 # About VENT_MineCraft_ModPack:
-This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 51 Mods & 21 Mod Dependencies for a total of 72 Mods.
+This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We currently run 51 Mods & 20 Mod Dependencies for a total of 71 Mods.
 
 # Download & Installation:
 1) Download the .zip.
