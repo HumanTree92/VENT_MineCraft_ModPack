@@ -104,7 +104,7 @@ This is a Mod Pack for Velociti Entertainments Private MineCraft Server. We curr
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
-* [Website]( https://velocitientertainment.com )
+* [Website]( https://www.velocitientertainment.com )
 * [Donate]( https://velocitientertainment.weebly.com/donations.html )
 * [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
 * [Steam Group]( https://steamcommunity.com/groups/velocitientertainment )
